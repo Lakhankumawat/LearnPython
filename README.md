@@ -1,6 +1,4 @@
-# LearnPython <img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" /><br>
-## 1. <a href="https://onlinecourses.nptel.ac.in/noc21_cs32/course">Course: NPTEL-The-Joy-of-Computing-using-Python</a><br>
-# python-exercises
+# python-exercises <img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" /><br>
 Exercises for Python beginners
 
 * [Python beginner exercises](https://pythonbasics.org/Exercises/)
@@ -16,3 +14,4 @@ Exercises for Python beginners
 Future
 
 * [Numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+* [Course: NPTEL-The-Joy-of-Computing-using-Python](https://onlinecourses.nptel.ac.in/noc21_cs32/course")
