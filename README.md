@@ -13,5 +13,6 @@ Exercises for Python beginners
 
 Future
 
+
 1. [Numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 2. [Course: NPTEL-The-Joy-of-Computing-using-Python](https://onlinecourses.nptel.ac.in/noc21_cs32/course")
