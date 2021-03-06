@@ -1,7 +1,7 @@
 # python-exercises <img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" /><br>
 Exercises for Python beginners
 
-* [Python beginner exercises](https://pythonbasics.org/Exercises/)
+* [Python beginner exercises](https://pythonbasics.org/Exercises/) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LearnPython&countColorcountColor&countColor=%237B1E7B"/>
 * [Practice Python site](https://practicepython.org/)
 * [Codingbat exercises](http://codingbat.com/python)
 * [Edabit Challenges](https://edabit.com/)
@@ -16,3 +16,12 @@ Future
 
 1. [Numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 2. [Course: NPTEL-The-Joy-of-Computing-using-Python](https://onlinecourses.nptel.ac.in/noc21_cs32/course")
+
+
+<h2>Contributing </h2>
+<h5 >Contributions to the project are most welcome, so feel free to fork and improve.</h5><br><br>
+<h2 align="center" >< Please Do Contribute 💗 & Star!🤩></h2>
+  
+  <br><br><hr>
+  <h6 align="center">© LearnPython 2021 <br>
+  All Rights Reserved</h6>
