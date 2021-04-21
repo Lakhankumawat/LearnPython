@@ -1,3 +1,15 @@
+<!------------------Swags------------------------->
+
+<p align="center">
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt=" forks"/>
+<img src="https://forthebadge.com/images/badges/built-by-codebabes.svg" alt=" forks"/>
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" alt=" forks"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt=" forks"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt=" forks"/>
+
+</p>
+
 # python-exercises <img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" /><br>
 Exercises for Python beginners
 
