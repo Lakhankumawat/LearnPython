@@ -1,3 +1,6 @@
+
+
+
 <!------------------Swags------------------------->
 
 <p align="center">
@@ -10,7 +13,9 @@
 
 </p>
 
-# python-exercises <img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" /><br>
+# python-exercises <img align="right" width="50" src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" alt="py" />
+<img align="right"  src="https://img.icons8.com/color/96/000000/python.png" alt="py" />
+<img align="right" width="70" src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" alt="py" /><br>
 Exercises for Python beginners
 
 * [Python beginner exercises](https://pythonbasics.org/Exercises/) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LearnPython&countColorcountColor&countColor=%237B1E7B"/>
